@@ -21,8 +21,9 @@
 <a href="https://doc.rust-lang.org/book/"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"></img></a>
 <a href="https://codeforces.com/profile/mTT_TF"><img src="https://img.shields.io/badge/CodeForces-385597?style=for-the-badge&logo=codeforces&logoColor=white"></img></a>
 <a href="https://atcoder.jp/users/mttgermano"><img src="https://img.shields.io/badge/AtCoder-white?style=for-the-badge&logo=Ferrari&logoColor=black"></img></a>
-<a href="https://leetcode.com/problemset/all/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></img></a>
+<!--<a href="https://leetcode.com/problemset/all/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></img></a>-->
 <a href="https://cses.fi/user/135520"><img src="https://img.shields.io/badge/CSES-ff5555?style=for-the-badge&logo=c&logoColor=white"></img></a>
+<a href="https://www.beecrowd.com.br/judge/pt/profile/732095"><img src="https://img.shields.io/badge/BEECRWOD-fdc500?style=for-the-badge&logo=swift&logoColor=white"></img></a>
 
 
 <!-- Footer -->
