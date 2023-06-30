@@ -19,8 +19,8 @@
 <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></img></a>
 <a href="https://www.gnu.org/software/bash/manual/bash.html"><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"></img></a>
 <a href="https://doc.rust-lang.org/book/"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"></img></a>
-<a href="https://codeforces.com/"><img src="https://img.shields.io/badge/CodeForces-385597?style=for-the-badge&logo=codeforces&logoColor=white"></img></a>
-<a href="https://atcoder.jp/"><img src="https://img.shields.io/badge/AtCoder-white?style=for-the-badge&logo=Ferrari&logoColor=black"></img></a>
+<a href="https://codeforces.com/profile/mTT_TF"><img src="https://img.shields.io/badge/CodeForces-385597?style=for-the-badge&logo=codeforces&logoColor=white"></img></a>
+<a href="https://atcoder.jp/users/mttgermano"><img src="https://img.shields.io/badge/AtCoder-white?style=for-the-badge&logo=Ferrari&logoColor=black"></img></a>
 <a href="https://leetcode.com/problemset/all/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></img></a>
 <a href="https://cses.fi/"><img src="https://img.shields.io/badge/CSES-ff5555?style=for-the-badge&logo=c&logoColor=white"></img></a>
 
