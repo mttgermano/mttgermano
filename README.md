@@ -4,7 +4,7 @@
 
 <!-- Body -->
 ## #! /bin/mttgermano
-> #### 🎓 CS Bachelor [@Federal University of Campina Grande](https://portal.ufcg.edu.br/) (at 2nd SEM)
+> #### 🎓 CS Bachelor [@Federal University of Campina Grande](https://portal.ufcg.edu.br/) (at 4th SEM)
 > #### ⌨️ Competitive Programmer															
 > #### 🐛 Bug Hunter																
 
