@@ -5,8 +5,8 @@
 <!-- Body -->
 ## #! /bin/mttgermano
 > #### 🎓 CS Bachelor [@Federal University of Campina Grande](https://portal.ufcg.edu.br/) (at 4th SEM)
-> #### ⌨️ Competitive Programmer															
-> #### 🐛 Bug Hunter																
+> #### 🐛 Bug Hunter
+> #### ⌨️ Competitive Programmer																
 
 
 <a href="https://archlinux.org/"><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"></img></a>
