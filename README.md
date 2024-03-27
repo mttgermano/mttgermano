@@ -16,7 +16,6 @@
 <a href="https://docs.arduino.cc/"><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"></img></a>
 <a href="https://github.com/tmux/tmux/wiki"><img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white"></img></a>
 <a href="https://neovim.io/doc/"><img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"></img></a>
-<a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></img></a>
 <a href="https://www.gnu.org/software/bash/manual/bash.html"><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"></img></a>
 <a href="https://doc.rust-lang.org/book/"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"></img></a>
 <a href="https://codeforces.com/profile/mTT_TF"><img src="https://img.shields.io/badge/CodeForces-385597?style=for-the-badge&logo=codeforces&logoColor=white"></img></a>
