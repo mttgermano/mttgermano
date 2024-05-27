@@ -17,10 +17,8 @@
 <a href="https://github.com/tmux/tmux/wiki"><img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white"></img></a>
 <a href="https://neovim.io/doc/"><img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"></img></a>
 <a href="https://www.gnu.org/software/bash/manual/bash.html"><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"></img></a>
-<a href="https://doc.rust-lang.org/book/"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"></img></a>
 <a href="https://codeforces.com/profile/mTT_TF"><img src="https://img.shields.io/badge/CodeForces-385597?style=for-the-badge&logo=codeforces&logoColor=white"></img></a>
 <a href="https://atcoder.jp/users/mttgermano"><img src="https://img.shields.io/badge/AtCoder-white?style=for-the-badge&logo=Ferrari&logoColor=black"></img></a>
-<!--<a href="https://leetcode.com/problemset/all/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></img></a>-->
 <a href="https://cses.fi/user/135520"><img src="https://img.shields.io/badge/CSES-ff5555?style=for-the-badge&logo=c&logoColor=white"></img></a>
 <a href="https://www.beecrowd.com.br/judge/pt/profile/732095"><img src="https://img.shields.io/badge/BEECRWOD-fdc500?style=for-the-badge&logo=swift&logoColor=white"></img></a>
 
