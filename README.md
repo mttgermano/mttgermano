@@ -24,7 +24,7 @@
 <p align="center">
 	<a href="mailto:mttgermano@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></img></a>
 	<a href="https://www.linkedin.com/in/mttgermano/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
-	<a href="https://codeforces.com/profile/mTT_TF"><img src="https://img.shields.io/badge/CodeForces-385597?style=for-the-badge&logo=codeforces&logoColor=white"></img></a>
+	<a href="https://codeforces.com/profile/mttgermano"><img src="https://img.shields.io/badge/CodeForces-385597?style=for-the-badge&logo=codeforces&logoColor=white"></img></a>
 </p>
 
 
